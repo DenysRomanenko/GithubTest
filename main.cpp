@@ -4,6 +4,7 @@ int main(){
 	int l = 5;
 	int commit1;
 	int collision2;
+	int collision1;
 	int commit2;
 	return b;
 }
