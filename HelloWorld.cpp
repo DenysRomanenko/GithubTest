@@ -9,3 +9,7 @@ void change1(){
 
 void ch1(){
 };
+
+void ch2(){
+}
+
