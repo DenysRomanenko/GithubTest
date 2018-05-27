@@ -16,3 +16,5 @@ void ch2(){
 void ch3(){
 }
 
+void branch1() {
+}
