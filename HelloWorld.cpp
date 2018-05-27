@@ -6,3 +6,6 @@ void main(){
 void change1(){
 	change();
 }
+
+void ch1(){
+};
