@@ -6,3 +6,6 @@ void main(){
 void ch1(){
 	
 }
+
+void ch2(){
+}
